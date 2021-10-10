@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/auth-crud/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/auth-crud/static/js/main.ce3294eb.chunk.js",
+    "main.js.map": "/auth-crud/static/js/main.ce3294eb.chunk.js.map",
+    "runtime-main.js": "/auth-crud/static/js/runtime-main.c83ba648.js",
+    "runtime-main.js.map": "/auth-crud/static/js/runtime-main.c83ba648.js.map",
+    "static/css/2.a95be28f.chunk.css": "/auth-crud/static/css/2.a95be28f.chunk.css",
+    "static/js/2.be3761e0.chunk.js": "/auth-crud/static/js/2.be3761e0.chunk.js",
+    "static/js/2.be3761e0.chunk.js.map": "/auth-crud/static/js/2.be3761e0.chunk.js.map",
+    "static/js/3.864c4135.chunk.js": "/auth-crud/static/js/3.864c4135.chunk.js",
+    "static/js/3.864c4135.chunk.js.map": "/auth-crud/static/js/3.864c4135.chunk.js.map",
+    "index.html": "/auth-crud/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/auth-crud/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/auth-crud/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.be3761e0.chunk.js.LICENSE.txt": "/auth-crud/static/js/2.be3761e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c83ba648.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.be3761e0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ce3294eb.chunk.js"
+  ]
+}
