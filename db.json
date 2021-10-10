@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "David Chameleon",
+      "email": "David@april.biz",
+      "phone": "17707368031",
+      "website": "hildegard.org",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Harbour Paul",
+      "email": "Paul@harbour.biz",
+      "phone": "1770564421",
+      "website": "ph.org"
+    }
+  ]
+}
